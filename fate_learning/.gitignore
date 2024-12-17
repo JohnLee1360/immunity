@@ -1,0 +1,18 @@
+**/__pycache__/**
+
+#fate flow 产生的文件
+data/
+jobs/
+logs/
+model/
+pipeline.pkl
+
+#数据集
+datasets/
+
+#fed_run.py产生的文件
+result/
+runs/
+record.log
+
+atk.txt

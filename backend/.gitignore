@@ -1,0 +1,9 @@
+**/__pychace__/
+
+# 暂未用到的数据库
+instance/
+
+# 训练生成的数据
+result/
+record.log
+
